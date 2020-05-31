@@ -1,0 +1,16 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppThemeMargin1" parent="AppTheme">
+        <item name="android:layout_margin">1dp</item>
+    </style>
+    <style name="AppThemeMargin3" parent="AppTheme">
+        <item name="android:layout_margin">3dp</item>
+    </style>
+    <style name="AppThemeMargin10" parent="AppTheme">
+        <item name="android:layout_margin">10dp</item>
+    </style>
+</resources>

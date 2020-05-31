@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">homework3.4.2</string>
+    <string name="apply">Appliquer</string>
+    <string name="select_language">On choisit la langue française</string>
+    <string-array name="language">
+        <item>Russian</item>
+        <item>English</item>
+        <item>French</item>
+    </string-array>
+    <string-array name="margin">
+        <item> le Standard </item>
+        <item> Menu </item>
+        <item> Moyen </item>
+        <item> Grand </item>
+    </string-array>
+</resources>
